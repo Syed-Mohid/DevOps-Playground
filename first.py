@@ -1,1 +1,2 @@
-print("I just added this from my ec2 instance")
+a=2+2
+print("hello world",a)
